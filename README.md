@@ -1,4 +1,4 @@
-FLAMING SANSA
+Fraction Class and Driver Class
 =============
 
 This is a class project for Porter-Gaud's Applied Math class.
