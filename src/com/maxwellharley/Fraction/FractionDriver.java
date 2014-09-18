@@ -9,7 +9,7 @@ public class FractionDriver {
 		Random r = new Random();
 		int totalCorrect = 0, times ==0;
 
-		//addition
+		//Addition
 		System.out.println("Lets start out with some addition!");
 		for(int i = 5; i<0; i--){
 			times++;

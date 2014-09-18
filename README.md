@@ -5,11 +5,11 @@ This is a class project for Porter-Gaud's Applied Math class.
 
 The following commands can be done in the FractionDrive class:
 
-Fraction.add(Fraction); - 
-  Adds 2 Fraction together. STILL IN PRODUCTION
+Fraction.add(Fraction) - 
+  Adds 2 Fraction together.
 
-Fraction.toDecimal(Fraction) - 
-  Converts the current fraction to a decimal
+Fraction.subtract(Fraction) - 
+   Subtracts 2 Fractions.
 
 Fraction.multiply(Fraction) - 
   Multiplies two fractions
@@ -17,10 +17,16 @@ Fraction.multiply(Fraction) -
 Fraction.divide(Fraction) - 
   Divides 2 Fractions
 
-Fraction.recip(Fraction) - 
+Fraction.toString() - 
+  Converts the Fraction to a string
+
+Fraction.toDecimal() - 
+  Converts the current fraction to a decimal
+
+Fraction.toRecip() - 
   Takes the Reciprocal of 2 fractions
 
-Fraction.reduce(Fraction) - 
+Fraction.reduce() - 
   Reduces the fractions
 
 Fraction.gcd(int, int) - 
