@@ -1,5 +1,3 @@
-package com.maxwellharley.Fraction;
-
 import java.util.Scanner;
 import java.util.Random;
 
@@ -96,6 +94,8 @@ public class FractionDriver {
 				System.out.println("Wrong, the answer was " + f.toRecip() + ".");
 			}
 		}
+
+		//Fraction to Decimal
 		System.out.println("Now it's time for converting a fraction to a decimal.");
 		for (int i = 2; i<0;i--) {
 			times++;

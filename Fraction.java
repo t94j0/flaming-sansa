@@ -1,5 +1,3 @@
-package com.maxwellharley.Fraction;
-
 public class Fraction {
 	private int denominator, numerator;
 
