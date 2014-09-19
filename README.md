@@ -31,3 +31,5 @@ Fraction.reduce() -
 
 Fraction.gcd(int, int) - 
   Takes the GCD of 2 integers. This method is used with the reduce     method.
+Fraction.lcd(int, int) - 
+  Takes the lowest common denominator of 2 integers. Not used in any of the classes, but I wrote it and don't want to take it out...
